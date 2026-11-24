@@ -1,0 +1,26 @@
+0 verbose cli /usr/bin/node /usr/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@11.19.1
+2 info using node@v24.22.0
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/admin/.openclaw/workspace/repos/1795498206/.npmrc
+5 silly config load:file:/usr/etc/npmrc
+6 verbose title npm exec npm@11.19.1 install @iarna/toml@2.2.5 --ignore-scripts --no-audit --no-fund
+7 verbose argv "exec" "--yes" "--" "npm@11.19.1" "install" "@iarna/toml@2.2.5" "--ignore-scripts" "--no-audit" "--no-fund"
+8 verbose logfile logs-max:10 dir:/home/admin/.openclaw/workspace/repos/1795498206/.npm/_logs/2026-11-24T05_32_46_735Z-
+9 verbose logfile /home/admin/.openclaw/workspace/repos/1795498206/.npm/_logs/2026-11-24T05_32_46_735Z-debug-0.log
+10 silly logfile done cleaning log files
+11 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
+12 http fetch GET 200 https://registry.npmjs.org/npm 275ms
+13 http fetch GET 200 https://registry.npmjs.org/npm 609ms (cache miss)
+14 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
+15 verbose cwd /home/admin/.openclaw/workspace/repos/1795498206
+16 verbose os Linux 6.8.0-147-generic
+17 verbose node v24.22.0
+18 verbose npm  v11.19.1
+19 notice
+19 notice New major version of npm available! 11.19.1 -> 12.2.3
+19 notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.3
+19 notice To update run: npm install -g npm@12.2.3
+19 notice  { force: true, Symbol(proc-log.meta): true }
+20 verbose exit 1
+21 verbose code 1
